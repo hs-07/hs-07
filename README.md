@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **harshitcr7777@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ebOLKdlYxotH21AfYeP20g9Dpz2Jt1ep/view?usp=sharing](https://drive.google.com/file/d/1ebOLKdlYxotH21AfYeP20g9Dpz2Jt1ep/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UOtlE_e3MQM75lAk5US718QFkd11OvOW/view?usp=sharing](https://drive.google.com/file/d/1ebOLKdlYxotH21AfYeP20g9Dpz2Jt1ep/view?usp=sharing)
 
 - ⚡ Fun fact **(football over coding😅)**
 
