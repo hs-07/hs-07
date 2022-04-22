@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Harshit</h1>
+<h1 align="center"> <img src="https://github.com/hs-07/hs-07/blob/main/hello.gif" alt="hello-gif">
+
+<h1 align="center"> I'm <a href="www.linkedin.com/in/harshit-shukla-67b28a212">Harshit Shukla👨‍💻</a></h1>
 <h3 align="center">✨Coding the program called "Life.js".</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hs-07&label=Profile%20views&color=0e75b6&style=flat" alt="hs-07" /> </p>
