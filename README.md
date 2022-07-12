@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hs-07&label=Profile%20views&color=0e75b6&style=flat" alt="hs-07" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **Developing new skills**
 
 - 💬 Ask me about **HTML, CSS, JS, React JS and Node JS**
 
