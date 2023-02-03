@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://github.com/hs-07/hs-07/blob/main/hello.gif" alt="hello-gif">
+
 
 <h1 align="center"> I'm <a href="www.linkedin.com/in/harshit-shukla-67b28a212">Harshit Shukla👨‍💻</a></h1>
 <h3 align="center">✨Coding the program called "Life.js".</h3>
@@ -29,9 +29,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>
-  <p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
