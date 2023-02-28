@@ -53,8 +53,7 @@
 </p>
 <a align= "center" href="https://github.com/hs-07">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=hs-07&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> 
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=hs-07&count_private=true&theme=radical&show_icons=true" /></a>
+
 
 
 
