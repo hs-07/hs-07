@@ -9,7 +9,7 @@
 
 <br>
 
-## ♦️ About Me
+## About Me
 
 I'm a results-driven professional with a passion for continuous learning and a never-give-up attitude. I thrive on solving complex challenges and have a track record of building scalable business solutions.
 
@@ -18,7 +18,7 @@ I'm a results-driven professional with a passion for continuous learning and a n
 
 <br>
 
-### ♦️ Connect with me
+### Connect with me
 <a href="https://github.com/hs-07" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -33,7 +33,7 @@ I'm a results-driven professional with a passion for continuous learning and a n
 <br>
   
 
-### ♦️ Technologies
+### Technologies
 - Languages
 
   [![image](https://img.shields.io/badge/JavaScript-f0db4f.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
@@ -64,10 +64,7 @@ I'm a results-driven professional with a passion for continuous learning and a n
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-  <br>
 
-<a align= "center" href="https://github.com/hs-07">
-[![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=hs-07&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
