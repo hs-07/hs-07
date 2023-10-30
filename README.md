@@ -1,24 +1,24 @@
 
 
-<h1 align="center"> I'm <a href="www.linkedin.com/in/harshit-shukla-67b28a212">Harshit Shukla👨‍💻</a></h1>
-<h3 align="center">✨Coding the program called "Life.js".</h3>
+<h1 align="center"> Hello 👋, I'm <a href="www.linkedin.com/in/harshit-shukla-67b28a212">Harshit 👨‍💻</a></h1>
 
+
+<h4 align="center">✨Coding the program called "Life.js".</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hs-07&label=Profile%20views&color=0e75b6&style=flat" alt="hs-07" /> </p>
 
-- 🔭 I’m currently working on **Developing new skills**
 
-- 💬 Ask me about <i> **HTML, CSS, JS, React JS and Node JS** </i>
+<br>
 
-- 📫 How to reach me **harshitcr7777@gmail.com**
+## ♦️ About Me
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14o-5FjrnxHdM3XloIGIznYws1XEkXTwB/view?usp=sharing)
+I'm a results-driven professional with a passion for continuous learning and a never-give-up attitude. I thrive on solving complex challenges and have a track record of building scalable business solutions.
 
-- ⚡ Fun fact **(football over coding😅)**
 
-[![@hs07's Holopin board](https://holopin.me/hs07)](https://holopin.io/@hs07)
+#### ⚡ Fun fact **(football over coding😅)**
 
-<h3 align="left">Connect with me:</h3>
-<div align="center">
+<br>
+
+### ♦️ Connect with me
 <a href="https://github.com/hs-07" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -28,31 +28,46 @@
 <a href="https://www.instagram.com/_hs.07_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>
+
+<br> 
+<br>
   
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
-<a href="https://next.js.org" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="next" width="60" height="50"/> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/ > </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> 
-<a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="50" height="50"/></a>
-<a href="https://handlebarsjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/handlebars.svg" alt="pug" width="50" height="50"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/docker-3628734-3029959.png" alt="docker" width="50" height="50"/> </a>
-</p>
+### ♦️ Technologies
+- Languages
+
+  [![image](https://img.shields.io/badge/JavaScript-f0db4f.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+  [![image](https://img.shields.io/badge/TypeScript-007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Golang](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+  [![image](https://img.shields.io/badge/C%2B%2B-044f88?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
+
+
+- Frameworks and Libraries
+
+  ![React & React Native](https://img.shields.io/badge/React_&_React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  [![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+  
+  
+
+- Databases
+
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  [![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A158?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/cloud/atlas)
+
+  
+- Other Tools
+
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+  <br>
+
 <a align= "center" href="https://github.com/hs-07">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=hs-07&theme=radical">
+[![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=hs-07&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
